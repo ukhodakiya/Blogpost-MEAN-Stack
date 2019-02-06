@@ -1,6 +1,10 @@
 # MeanCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1
+
+## Deployed website available
+Deployed application is available on 
+http://mean-blogpost.s3-website.us-east-2.amazonaws.com/
 
 ## Development server
 
